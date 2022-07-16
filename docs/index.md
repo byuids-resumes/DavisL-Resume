@@ -1,84 +1,96 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Landon Davis Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Landon Davis
+Computer Science Student 
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="Landonjdavis36@byui.edu">Landonjdavis36@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="www.linkedin.com/in/landon-davis-043977220">LinkedIn</a>
+| <a href="https://github.com/Landonjdavis36">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2025`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.77 Major GPA
 
-
-## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
+## Skills
+- Product ordering
+- Proper product rotation
+- Sales and profits maximization
+- Programming
+- Python
+- HTML/CSS
+- Java script
+- MYSQL
+- E-commerce
+- Web development/design
+- Search engine optimization
+- Google analytics
+- Windows OS
+- Microsoft Office
+- Mac OS
+- Computer hardware and
+maintenance
+- Excellent customer service
+- Hardworker
+- Self motivated
+- Friendly
+- Organized
+## Awards
+`2016-2017`
+- Idaho State Cross Country Medalist 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2017`
+__LandScaper__
+__Artscape Landscaping| Hayden, Idaho__
+
+- Operated landscaping equipment
+- Used proper gear and safety behaviors
+- Cut yards to match customer’ requests
+- Created highly professional looks
+
+`2020`
+__Van Driver__
+__Advanced Health Care of Coeur d’Alene| Coeur d’Alene, Idaho__
+- Documented daily logs, expense, trip, and
+inspection reports
+- Transported patients to facilities in
+wheelchairs for tests, treatments, and
+therapies
+- Kept things clean and sanitized
+- Made sure patients were comfortable
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2020-2021`
+__Dairy Manager__
+__Broulims Supermarket| Rigby, Idaho__
+
+- Checking pricing and signage
+- Helping customers with questions
+- Placing products in correct places
+- Entered order details into system
+- Keep a clean and safe work environment
+- Put items on ad in displays
+
+`2022-Current`
+__Technology Support Student Engineer__
+__Information Technology- BYU-Idaho| Rexburg, Idaho__
+- Imaging computer labs
+- Creating and editing batch files
+- Update, add, and remove software
+- Microsoft System Center Configuration Manager
+
+`2017-2019`
+__Service Missionary__, In the states of Illinois and Iowa. Serving Indivisuals bringing other to Christ while developing Leadership skills.
 
 
 
