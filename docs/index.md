@@ -1,5 +1,5 @@
 ---
-layout: Resume
+layout: cv
 title: Landon Davis Resume
 ---
 # Landon Davis
